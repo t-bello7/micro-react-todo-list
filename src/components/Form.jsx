@@ -19,7 +19,7 @@ const Form  = () => {
         });
     }
     return(
-        <div>
+        <div className="about__content">
             <h1>React Form Handling</h1>
             <form>
                 <label>

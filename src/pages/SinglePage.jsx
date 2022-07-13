@@ -10,7 +10,7 @@ const aboutData = [
     {
         slug: "about-author",
         title: "About the author",
-        description: "This app was developed by Ibas Majid, a self-taught web developer and a technical writer. He is opened to freelance Gig. So go ahead and connect with ibas on Twitter @ibaslogic."
+        description: "This app was developed by Bello Oluwatomisin, a budding software developer. He is opened to freelance Gig. So go ahead and connect with Bello on Twitter @__tbello."
     }
 ]
 const SinglePage = () => {
@@ -24,7 +24,7 @@ const SinglePage = () => {
         ({title, description} = contentData)
     }
     return (
-        <div>
+        <div className='main__content'>
             <h1>{title}</h1>
             <p>{ description}</p>
         </div>
