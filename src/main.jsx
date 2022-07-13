@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom/client'
 import TodoContainer from './components/TodoContainer'
 import Form from './components/Form'
 import About from './pages/About'
-import AboutUs from './pages/AboutUs'
-import AboutAuthor from './pages/AboutAuthor'
 import NotMatch from './pages/NotMatch'
 import Navbar from './components/Navbar';
 import SinglePage from './pages/SinglePage'
