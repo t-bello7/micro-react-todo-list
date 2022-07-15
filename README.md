@@ -12,7 +12,7 @@
 
 ## Live Demo (Coming Soon)
 
-<!-- [Live Demo Link](https://livedemo.com) -->
+[Live Demo Link](https://t-bello7.github.io/micro-react-todo-list/)
 
 
 ## Getting Started
